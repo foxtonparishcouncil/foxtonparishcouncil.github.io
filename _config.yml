@@ -13,20 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Foxton Parish Council
+locale                   : "en-UK"
+title                    : "Foxton Parish Council"
+title_separator          : "-"
+name                     : "Foxton Parish Council"
+description              : "Foxton Parish Council serves the village of Foxton in Cambridgeshire."
+logo                     : "/assets/images/Foxton-Village-Sign-512x512.png"
+words_per_minute         : 200
 email: clerk@foxtonparishcouncil.gov.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: foxtonparishcouncil
-minimal_mistakes_skin: default
+
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: deanhowe/parishcouncil-minimal
+minimal_mistakes_skin: default
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,23 +61,32 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "Foxton Parish Council"
-  avatar : "/Foxton-Village-Sign.png"
-  bio    : "Serviing the village of Foxton, Cambridge, UK."
+  name             : "Foxton Parish Council"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "…"
+  location         : "Foxton, Cambridge, UK"
+  email            : "clerk@foxtonparishcouncil.gov.uk"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:clerk@foxtonparishcouncil.gov.uk
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://foxtonparishcouncil.gov.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 footer:
   links:
