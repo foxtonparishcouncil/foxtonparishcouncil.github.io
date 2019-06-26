@@ -18,7 +18,7 @@ title                    : "Foxton Parish Council"
 title_separator          : "-"
 name                     : "Foxton Parish Council"
 description              : "Foxton Parish Council serves the village of Foxton in Cambridgeshire."
-logo                     : "/assets/images/Foxton-Village-Sign-512x512.png"
+logo                     : "/theme-assets/foxton-village-sign-512x512.png"
 words_per_minute         : 200
 email: clerk@foxtonparishcouncil.gov.uk
 twitter_username: username
