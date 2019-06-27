@@ -100,6 +100,31 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+
+# Collections
+collections:
+  parish_councillors:
+    output: true
+    permalink: /:collection/:path/
+  planning_applications:
+    output: true
+    permalink: /:collection/:path/
+  meetings:
+    output: true
+    permalink: /:collection/:path/
+  directory:
+    output: true
+    permalink: /:collection/:path/
+    
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+  
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -109,20 +134,39 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
-  # _pages
+  # _parish_councillors
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: parish_councillors
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      share: true
+  # _meetings
+  - scope:
+      path: ""
+      type: meetings
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _planning_applications
+  - scope:
+      path: ""
+      type: planning_applications
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _directory
+  - scope:
+      path: ""
+      type: directory
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
