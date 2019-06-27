@@ -7,8 +7,10 @@ sidebar:
   nav: local-info
 ---
 
-Click below to find out more about Foxton and the local area:
+**This page is a work in progress!** <br> This page doesn’t really make sense - it just shows the menu twice.
+{: .notice--warning }
 
+Click below to find out more about Foxton and the local area:
 
 { % include nav_list nav="local-info" % }
 

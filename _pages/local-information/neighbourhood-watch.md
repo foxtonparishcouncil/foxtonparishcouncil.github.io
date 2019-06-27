@@ -4,7 +4,6 @@ permalink: /local-information/neighbourhood-watch
 historic_url: http://foxtonparishcouncil.gov.uk/page.php?id=295
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 

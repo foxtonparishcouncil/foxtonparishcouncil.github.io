@@ -4,7 +4,6 @@ permalink: /local-information/local-weather-reports
 historic_url: http://foxtonparishcouncil.gov.uk/feeds-weather.php?id=9
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 <style>

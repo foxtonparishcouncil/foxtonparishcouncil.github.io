@@ -4,7 +4,6 @@ permalink: /local-information/photo-gallery
 historic_url: http://foxtonparishcouncil.gov.uk/gallery.php?id=24
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 gallery:
   - url: /assets/photos/gallery-1/UPL_1.jpg

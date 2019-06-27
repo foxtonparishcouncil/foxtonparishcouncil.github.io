@@ -4,7 +4,6 @@ permalink: /local-information/local-travel-reports
 historic_url: http://foxtonparishcouncil.gov.uk/feeds-travel.php?id=10
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 <style>

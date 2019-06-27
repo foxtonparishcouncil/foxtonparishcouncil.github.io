@@ -4,7 +4,6 @@ permalink: /local-information/other-maps
 historic_url: http://foxtonparishcouncil.gov.uk/interactive-map.php?id=544
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 

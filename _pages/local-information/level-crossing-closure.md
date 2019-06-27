@@ -4,7 +4,6 @@ permalink: /local-information/level-crossing-closure
 historic_url: http://foxtonparishcouncil.gov.uk/page.php?id=156
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 

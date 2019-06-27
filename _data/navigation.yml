@@ -41,33 +41,40 @@ parish-council-info:
     - title: "Neighbourhood Plan"
       url: "/neighbourhood-plan"
 local-info:
-  - title: "Local Directory"
-    url: /local-information/local-directory
-  - title: "Interactive Map"
-    url: /local-information/interactive-map
-  - title: "Maps"
-    url: /local-information/other-maps
-  - title: "Photo Gallery"
-    url: /local-information/photo-gallery
-  - title: "Local Weather Feed"
-    url: /local-information/local-weather-reports
-  - title: "Local Travel Feed"
-    url: /local-information/local-travel-reports
-  - title: "Proposed Development"
-    url: /local-information/proposed-development
-  - title: "Level Crossing Closure"
-    url: /local-information/level-crossing-closure
-  - title: "Consultations"
-    url: /local-information/consultations
-  - title: "Neighbourhood Watch"
-    url: /local-information/neighbourhood-watch
-  - title: "Other Local Information"
-    url: /local-information/other-local-information
+  - title: "Local Information"
+    url: "/local-information"
+    children:
+    - title: "Local News"
+      url: "/local-news"
+    - title: "Local Directory"
+      url: "/local-information/local-directory"
+    - title: "Interactive Map"
+      url: "/local-information/interactive-map"
+    - title: "Maps"
+      url: "/local-information/other-maps"
+    - title: "Photo Gallery"
+      url: "/local-information/photo-gallery"
+    - title: "Local Weather Feed"
+      url: "/local-information/local-weather-reports"
+    - title: "Local Travel Feed"
+      url: "/local-information/local-travel-reports"
+    - title: "Proposed Development"
+      url: "/local-information/proposed-development"
+    - title: "Level Crossing Closure"
+      url: "/local-information/level-crossing-closure"
+    - title: "Consultations"
+      url: "/local-information/consultations"
+    - title: "Neighbourhood Watch"
+      url: "/local-information/neighbourhood-watch"
+    - title: "Other Local Information"
+      url: "/local-information/other-local-information"
+    - title: "Useful Links"
+      url: "useful-links"
 planning:
   - title: "Planning Overview"
-    url: /planning-overview/
+    url: "/planning-overview"
   - title: "Planning Applications"
-    url: /planning-applications/
+    url: "/planning-applications"
 
 
 

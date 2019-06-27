@@ -4,7 +4,6 @@ permalink: /local-information/consultations
 historic_url: http://foxtonparishcouncil.gov.uk/page.php?id=270
 layout: simple
 sidebar:
-  title: "Local Information"
   nav: local-info
 ---
 
