@@ -1,9 +1,73 @@
+# main links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Parish Council Information"
+    url: /parish-council-information
+  - title: "Contact Us"
+    url: /contact-us
+  - title: "Local Information"
+    url: /local-information
+  - title: "Local News"
+    url: /local-news
+  - title: "Planning Overview"
+    url: /planning-overview/
+  - title: "Planning Applications"
+    url: /planning-applications/
+  - title: "Useful Links"
+    url: /useful-links
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+parish-council-info:
+  - title: "Parish Council Information"
+    url: "/parish-council-information"
+    children:
+    - title: "Councillors' Details"
+      url: "/councillors-details"
+    - title: "Meetings & Minutes"
+      url: "/meetings-minutes-and-agendas"
+    - title: "Document Archive"
+      url: "/documents"
+    - title: "Planning Overview"
+      url: "/planning-overview"
+    - title: "Neighbourhood Plan"
+      url: "/neighbourhood-plan"
+local-info:
+  - title: "Local Directory"
+    url: /local-information/local-directory
+  - title: "Interactive Map"
+    url: /local-information/interactive-map
+  - title: "Maps"
+    url: /local-information/other-maps
+  - title: "Photo Gallery"
+    url: /local-information/photo-gallery
+  - title: "Local Weather Feed"
+    url: /local-information/local-weather-reports
+  - title: "Local Travel Feed"
+    url: /local-information/local-travel-reports
+  - title: "Proposed Development"
+    url: /local-information/proposed-development
+  - title: "Level Crossing Closure"
+    url: /local-information/level-crossing-closure
+  - title: "Consultations"
+    url: /local-information/consultations
+  - title: "Neighbourhood Watch"
+    url: /local-information/neighbourhood-watch
+  - title: "Other Local Information"
+    url: /local-information/other-local-information
+planning:
+  - title: "Planning Overview"
+    url: /planning-overview/
+  - title: "Planning Applications"
+    url: /planning-applications/
+
+
+
