@@ -12,6 +12,6 @@ sidebar:
 
 Click below to find out more about Foxton and the local area:
 
-{ % include nav_list nav="local-info" % }
+{% include nav_list nav="local-info" %}
 
 
