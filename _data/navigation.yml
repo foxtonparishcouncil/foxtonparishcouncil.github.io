@@ -4,8 +4,10 @@ main:
     url: /
   - title: "Parish Council Information"
     url: /parish-council-information
+  - title: "Calendar"
+    url: "/calendar"
   - title: "Contact Us"
-    url: /contact-us
+    url: "/contact-us"
   - title: "Local Information"
     url: /local-information
   - title: "Local News"
