@@ -1,5 +1,5 @@
 ---
-title: "ROADWORKS ROWLANDS CLOSE FOXTON 20 June 2019"
+title: "ROADWORKS ROWLANDS CLOSE FOXTON 20th June 2019"
 excerpt_separator: "<!--more-->"
 historic_url: "http://foxtonparishcouncil.gov.uk/news.php?template=2&id=670"
 categories:
