@@ -1,5 +1,5 @@
 ---
-title: "ROADWORKS STATION ROAD FOXTON TWO-WAY SIGNALS 24"
+title: "ROADWORKS STATION ROAD FOXTON TWO-WAY SIGNALS 24th June 7th July"
 excerpt_separator: "<!--more-->"
 historic_url: "http://foxtonparishcouncil.gov.uk/news.php?template=2&id=670"
 author_profile: true

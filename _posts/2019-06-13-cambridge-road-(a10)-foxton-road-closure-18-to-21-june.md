@@ -1,6 +1,6 @@
 ---
-title: "CAMBRIDGE ROAD (A10) FOXTON ROAD CLOSURE 18 to 21 June 2019"
-date: 2019-04-18T15:34:30-04:00
+title: "CAMBRIDGE ROAD (A10) FOXTON ROAD CLOSURE 18th to 21st June 2019"
+date: 2019-06-13T15:34:30-04:00
 excerpt_separator: "<!--more-->"
 historic_url: "http://foxtonparishcouncil.gov.uk/news.php?template=2&id=669"
 categories:
