@@ -1,23 +1,23 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: "/"
   - title: "Parish Council Information"
-    url: /parish-council-information
+    url: "/parish-council-information"
   - title: "Calendar"
     url: "/calendar"
   - title: "Contact Us"
     url: "/contact-us"
   - title: "Local Information"
-    url: /local-information
+    url: "/local-information"
   - title: "Local News"
-    url: /local-news
+    url: "/local-news"
   - title: "Planning Overview"
-    url: /planning-overview/
+    url: "/planning-overview"
   - title: "Planning Applications"
-    url: /planning-applications/
+    url: "/planning-applications"
   - title: "Useful Links"
-    url: /useful-links
+    url: "/useful-links"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
