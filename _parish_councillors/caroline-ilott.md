@@ -1,6 +1,6 @@
 ---
 name: Caroline Ilott
-email: clerk@foxtonparishcouncil.gov.uk
+email: caroline.ilott@foxtonparishcouncil.gov.uk
 position: 
 committees: 
   - Planning (Chairman)
